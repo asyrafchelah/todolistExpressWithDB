@@ -1,4 +1,3 @@
-postgres://dzjevlofluywpx:73ce9bdd9b9a35268085ad35a728c559bdc8422f103310dda0bc58660860d305@ec2-23-23-182-18.compute-1.amazonaws.com:5432/dcvngv3ke5v4e
 
 {
    "type": "postgres",
